@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Dana Kokey](https://up.htmlacademy.ru/javascript/18/user/1182545).
-* Наставник: `Неизвестно`.
+* Наставник: `Виктория Ткаченко`.
 
 ---
 
